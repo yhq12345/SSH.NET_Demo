@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SSH.NET_DEMO">
+</Property><Property Name="解决方案文件" Value="E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO.sln">
+</Property><Property Name="Date" Value="2015年1月20日">
+</Property><Property Name="Time" Value="14:12:34">
+</Property></Properties><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\granados.csproj" Description="项目文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\granados.csproj">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\AlgorithmSupport.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\AlgorithmSupport.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\AssemblyInfo.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\Base64.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\Base64.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\BigInteger.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\BigInteger.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\Blowfish.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\Blowfish.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\CipherUtil.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\CipherUtil.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\ConnectionInfo.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\ConnectionInfo.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\ConnectionParameter.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\ConnectionParameter.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\ConnectionRoot.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\ConnectionRoot.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\CRC.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\CRC.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\DES.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\DES.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\DSA.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\DSA.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\LibraryClient.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\LibraryClient.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\PKIBase.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\PKIBase.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\PrimeSieve.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\PrimeSieve.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\ReaderWriter.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\ReaderWriter.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\Rijndael.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\Rijndael.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\RSA.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\RSA.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\Socket.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\Socket.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH1Connection.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH1Connection.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH1Packet.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH1Packet.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH1UserAuthKey.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH1UserAuthKey.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH1Util.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH1Util.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH2Connection.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH2Connection.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH2Packet.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH2Packet.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH2UserAuthKey.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH2UserAuthKey.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSH2Util.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSH2Util.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\SSHUtil.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\SSHUtil.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\StringResource.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\StringResource.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\Test.cs" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\Test.cs">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\strings.resx" Description="文件已成功备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\strings.resx">
+</Event><Event ErrorLevel="2" Project="granados" Source="..\granados200\src\strings_ja.resx" Description="未能将文件备份为 E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\Backup\strings_ja.resx">
+</Event><Event ErrorLevel="1" Project="granados" Source="..\granados200\src\granados.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\granados.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="granados" Source="..\granados200\src\granados.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="granados" Source="..\granados200\src\granados.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

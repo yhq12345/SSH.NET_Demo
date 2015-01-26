@@ -1,0 +1,13 @@
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\SSH.NET_DEMO.exe
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\SSH.NET_DEMO.pdb
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\Renci.SshNet.dll
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\Renci.SshNet.pdb
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\Renci.SshNet.xml
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\SSH.NET_DEMO.Form1.resources
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\SSH.NET_DEMO.Properties.Resources.resources
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\SSH.NET_DEMO.exe
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\obj\x86\Debug\SSH.NET_DEMO.pdb
+E:\公司项目\项目内部需求\2014-08-19 SSH连接\2015-01-06 SSH.NET连接工具\SSH.NET_DEMO\SSH.NET_DEMO\bin\Debug\Routrek.granados.dll
